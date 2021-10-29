@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border: 1px solid #3e41eb;
+}
+
+button {
+  background: #5f9341;
+  color: white;
+  padding: 10px 20px;
+}
+/*# sourceMappingURL=index.css.map */
